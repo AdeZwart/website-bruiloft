@@ -104,7 +104,7 @@
     };
 
     /**
-     * simplyCountdown, create and display the coundtown.
+     * simplyCountdown, create and display the countdown.
      * @param elt
      * @param args (parameters)
      */

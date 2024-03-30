@@ -996,6 +996,10 @@ form label {
   /* words */
 }
 
+.simply-seconds-section {
+  display: none !important;
+}
+
 #fh5co-testimonial,
 #fh5co-services,
 #fh5co-started,
